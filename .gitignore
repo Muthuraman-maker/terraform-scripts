@@ -1,4 +1,5 @@
 **/*.tfstate
+**/*.lock.*
 **/*.tfstate.*
 **/.terraform/*
 **/Materials/*
